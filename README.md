@@ -1,3 +1,3 @@
-# UPBD
-Underwater Polarization Benchmark Dataset
+# UPBD（Underwater Polarization Benchmark Dataset）
+
 Data and codes will be uploaded shortly
